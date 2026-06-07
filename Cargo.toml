@@ -1,0 +1,12 @@
+[package]
+name = "sdk-chat"
+version = "0.1.0"
+edition = "2024"
+authors = ["Giuseppe Della Vedova"]
+description = "Chat SDK for Rust"
+homepage = "https://github.com/gi-dellav/sdk-chat"
+repository = "https://github.com/gi-dellav/sdk-chat"
+readme = "README.md"
+keywords = ["ai", "llm", "dev"]
+
+[dependencies]
