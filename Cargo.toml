@@ -7,6 +7,7 @@ description = "Chat SDK for Rust"
 homepage = "https://github.com/gi-dellav/sdk-chat"
 repository = "https://github.com/gi-dellav/sdk-chat"
 readme = "README.md"
+license = "Apache-2.0"
 keywords = ["ai", "llm", "dev"]
 
 [dependencies]
